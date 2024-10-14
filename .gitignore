@@ -1,0 +1,16 @@
+# Ignore Python-specific files
+__pycache__/
+*.py[cod]
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore log files
+*.log
+
+# Ignore VS Code-specific settings
+.vscode/
+
+# files
+000 Passwords/
